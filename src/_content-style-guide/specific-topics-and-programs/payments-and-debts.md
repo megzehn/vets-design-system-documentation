@@ -20,16 +20,16 @@ When we write about debt, we want to always communicate these things:
 
 ## Related terms
 
-**benefit overpayment (or overpayment)**
-: We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits) and the Veteran now owes that money back to VA.
-: - Note: Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. "Overpayments" alone is OK for all instances with limited character counts.
-
 **balance (used with "debt balance" and "copay bill balance")**
 : We use this term to describe the remaining amount a Veteran owes on a debt or copay bill.
 : - Note: We use this term mainly within the online debt portal itself.
 
 **benefit debt**
 : Go to the "benefit debt" entry in the [Retired terms](#retired-terms) section.
+
+**benefit overpayment (or overpayment)**
+: We use this term to describe when VA pays a Veteran too much money related to a VA benefit (such as disability, education, or pension benefits) and the Veteran now owes that money back to VA.
+: - Note: Use "benefit overpayment" on first mention and "overpayment" for all subsequent mentions. "Overpayments" alone is OK for all instances with limited character counts.
 
 **compromise offer**
 : We use this term to describe this specific debt repayment or relief option. A compromise offer means that the Veteran offers VA a lesser one-time lump sum amount as full payment.
