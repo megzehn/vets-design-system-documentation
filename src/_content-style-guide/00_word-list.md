@@ -186,7 +186,7 @@ For terms that are not on this list, refer to [Merriam-Webster](https://www.merr
 : Use "dental care" instead.
 
 **Department of Defense**
-: Go to entry for Defense Department.
+: Go to entry for "Defense Department."
 
 **Department of Veterans Affairs**
 : "Veterans" doesn't take an apostrophe. On VA.gov, because we show the complete U.S. Department of Veterans Affairs (VA) logo in the global header, we use VA or use the first-person "we." Go to [We, us, you](https://design.va.gov/content-style-guide/we-us-you) for examples.
