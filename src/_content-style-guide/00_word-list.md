@@ -572,7 +572,6 @@ For terms that are not on this list, refer to [Merriam-Webster](https://www.merr
 : - After first instance in body copy: PTSD
 : - Exception for page titles: If the spelled-out term is too long in a page title (H1) or meta title tag, it’s OK to use PTSD by itself, and then use the full spelling with the acronym in the first instance of body copy.
 
-
 ### Q
 
 ### R
