@@ -1,8 +1,8 @@
 ---
 layout: content-style-guide
 permalink: /content-style-guide/plain-language/
-title: Plain language
-inner-title: Standards
+title: Plain language standards
+inner-title: Plain language standards
 sub-pages:
   - sub-page: Use short sentences
   - sub-page: Use simple words and terms
