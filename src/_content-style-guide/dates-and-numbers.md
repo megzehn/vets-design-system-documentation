@@ -18,6 +18,10 @@ Dates, times, phone numbers, and addresses often appear together, so we've put g
 
 Spell out dates in body copy, using the full construction: March 31, 1989. In general, spell out days of the week and months also in body copy.
 
+**Example:** 
+
+The law goes into effect on Sunday, January 1, 2023. 
+
 **Exceptions:**
 
 - Use 9/11 when it's part of a program name such as the Post-9/11 GI Bill.
